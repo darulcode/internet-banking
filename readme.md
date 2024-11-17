@@ -70,5 +70,6 @@ Swagger menyediakan dokumentasi lengkap semua endpoint dengan contoh input dan o
 - **URL Swagger**:  http://localhost:8080/swagger-ui/index.html.
 ---
 
-
+## Testing Result
+![img.png](img.png)
 
