@@ -1,6 +1,5 @@
 package git.darul.mandiritest.service;
 
-import git.darul.mandiritest.dto.request.BankEwalletRequest;
 import git.darul.mandiritest.dto.response.BankAccountResponse;
 
 public interface BankService {

@@ -1,9 +1,7 @@
 package git.darul.mandiritest.controller;
 
 
-import git.darul.mandiritest.dto.request.BankEwalletRequest;
 import git.darul.mandiritest.dto.response.BankAccountResponse;
-import git.darul.mandiritest.dto.response.CommonResponse;
 import git.darul.mandiritest.dto.response.ListBankResponse;
 import git.darul.mandiritest.service.BankService;
 import git.darul.mandiritest.util.ResponseUtil;

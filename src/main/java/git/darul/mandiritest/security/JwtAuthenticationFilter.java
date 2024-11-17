@@ -1,8 +1,6 @@
 package git.darul.mandiritest.security;
 
-import git.darul.mandiritest.entity.Account;
 import git.darul.mandiritest.entity.User;
-import git.darul.mandiritest.service.AccountService;
 import git.darul.mandiritest.service.JwtService;
 import git.darul.mandiritest.service.UserService;
 import jakarta.servlet.FilterChain;
