@@ -6,8 +6,8 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SpringBootApplication
 @EnableJpaAuditing
-public class MandiriTestApplication {
+public class InternetBankingApplication {
     public static void main(String[] args) {
-        SpringApplication.run(MandiriTestApplication.class, args);
+        SpringApplication.run(InternetBankingApplication.class, args);
     }
 }

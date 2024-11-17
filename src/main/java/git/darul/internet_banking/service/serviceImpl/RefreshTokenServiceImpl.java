@@ -15,7 +15,7 @@ import java.util.UUID;
 @Service
 public class RefreshTokenServiceImpl implements RefreshTokenService {
 
-    @Value("${mandiritest.refresh-token-expiration-in-hour}")
+    @Value("${internet-banking.refresh-token-expiration-in-hour}")
     private Integer REFRESH_TOKEN_EXPIRY;
 
     private final RedisService redisService;

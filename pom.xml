@@ -9,10 +9,10 @@
         <relativePath/>
     </parent>
     <groupId>git.darul</groupId>
-    <artifactId>mandiri-test</artifactId>
+    <artifactId>internet-banking</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mandiri test</name>
-    <description>mandiri test</description>
+    <name>internet banking</name>
+    <description>internet banking</description>
     <properties>
         <java.version>17</java.version>
     </properties>

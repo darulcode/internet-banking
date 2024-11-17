@@ -30,15 +30,15 @@ public class JwtServiceImpl implements JwtService {
 
     private final RedisService redisService;
 
-    @Value("${mandiritest.jwt-secret}")
+    @Value("${internet-banking.jwt-secret}")
     private String SECRET_KEY;
 
-    @Value("${mandiritest.jwt-expiration-in-minutes}")
+    @Value("${internet-banking.jwt-expiration-in-minutes}")
     private Long EXPIRATION_TIME_TOKEN;
 
     private final String BLACKLISTED = "BLACKLISTED";
 
-    @Value("${mandiritest.jwt-issuer}")
+    @Value("${internet-banking.jwt-issuer}")
     private String ISSUER;
 
 
